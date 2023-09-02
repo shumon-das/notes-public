@@ -3,7 +3,7 @@
 - __Download ISO file__
  
 ````
-https://www.microsoft.com/en-us/software-download/`
+https://www.microsoft.com/en-us/software-download/
  ````
 - __Download Rufus.exe__
 
